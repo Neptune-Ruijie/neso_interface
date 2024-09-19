@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(naiad_interfaces)
+project(neso_interfaces)
 
 
 set(RULES_DIR ${CMAKE_CURRENT_SOURCE_DIR}/rules)

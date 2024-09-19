@@ -1,0 +1,9 @@
+#存储点云的服务
+uint8 action        # 如何存储点云
+
+## ACTION定义
+uint8 ACTION_SAVE_RAW_POINT_CLOUD = 1
+uint8 ACTION_SAVE_REDUCED_POINT_CLOUD = 2
+
+---
+ApiState  result  
